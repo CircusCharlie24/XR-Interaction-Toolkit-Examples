@@ -1,0 +1,3 @@
+[submodule "Assets/CodeLibrary24/TabletXR"]
+	path = Assets/CodeLibrary24/TabletXR
+	url = https://github.com/CircusCharlie24/TabletXR.git
